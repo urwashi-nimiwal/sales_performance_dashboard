@@ -16,3 +16,4 @@ to analyze and visualize sales data effectively.
 
 ### 🎥 Dashboard Demo
 Check the demo video in this repository.
+#PowerBI #DataAnalytics #Dashboard #SQL
